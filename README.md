@@ -1,2 +1,2 @@
 # bitcoin
-biy_coin
+bit_coin
